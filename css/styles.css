@@ -24,14 +24,15 @@ button {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #4d5ae5;
+        
 }
 
 .header-logo-color {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .header-navigation {
@@ -113,7 +114,7 @@ button {
 .team-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -140,7 +141,7 @@ button {
 .portfolio-title {
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -172,14 +173,14 @@ button {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 
 .footer-logo-color {
-    color: #4d5ae5;
+    color: #f4f4fd;
 }
 
 .footer-text {
