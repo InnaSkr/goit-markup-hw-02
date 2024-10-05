@@ -50,7 +50,8 @@ button {
         color: #2e2f42;
 }
 
-.header-navigation-link:hover {
+.header-navigation-link:hover,
+.header-navigation-link:focus {
     color: #404bbf;
 }
 
@@ -70,8 +71,13 @@ button {
         color: #434455;
 }
 
-.contacts-list-link:hover {
+.contacts-list-link:hover,
+.contacts-list-link:focus {
     color: #404bbf;
+}
+
+.solutions {
+    background-color:#2e2f42;
 }
 
 .solutions-title {
@@ -87,6 +93,8 @@ button {
 .solutions-btn {
     font-weight: 500;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
     cursor: pointer
@@ -97,9 +105,6 @@ button {
     background: #404bbf;
 }
     
-
-
-
 .adventures-title {
     display: none;
 }
@@ -130,7 +135,7 @@ button {
         line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        text-align: center
+        text-align: center;
         text-transform: capitalize;
 }
 
