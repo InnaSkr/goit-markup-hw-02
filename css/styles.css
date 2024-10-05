@@ -28,7 +28,8 @@ button {
         line-height: 1.17;
         letter-spacing: 0.03em;
         color: #4d5ae5;
-        
+        text-transform: uppercase;
+
 }
 
 .header-logo-color {
